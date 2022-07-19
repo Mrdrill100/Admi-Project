@@ -1,0 +1,43 @@
+{
+  "posts": [],
+  "signups": [
+    {
+      "fullname": "Shivam Gaur",
+      "email": "Vivekgaur868@gmail.com",
+      "password": "hello",
+      "mobile": 9140710373,
+      "id": 1
+    },
+    {
+      "fullname": "shivam new ",
+      "email": "vjknb@gmail.com",
+      "password": "sdnikdckc",
+      "mobile": 879654123,
+      "id": 2
+    },
+    {
+      "fullname": "raghav shukla",
+      "email": "raghav@gmail.com",
+      "password": "raghav@1",
+      "mobile": null,
+      "id": 3
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": 988786565,
+      "id": 4
+    },
+    {
+      "fullname": "jdzkn",
+      "email": "Vivekgaur868@gmail.com",
+      "password": "cjk",
+      "mobile": 5546,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
